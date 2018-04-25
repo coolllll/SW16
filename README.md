@@ -60,3 +60,6 @@ Ae_Sweat16
 
 Total Followers (intersection include)
 17414
+
+Total Individual Followers
+4468
